@@ -13,6 +13,14 @@
 **Difficulty Levels:** Basic, Intermediate, Advanced  
 
 ---
+## 📂 Dataset Source
+
+The datasets used in this project were obtained from Kaggle:
+
+- `CovidDeaths.csv`
+- `CovidVaccinations.csv`
+
+The datasets contain country-wise and date-wise COVID-19 cases, deaths, population, and vaccination-related information.
 
 ## 📌 Project Overview
 
