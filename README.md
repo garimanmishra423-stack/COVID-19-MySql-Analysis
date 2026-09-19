@@ -131,6 +131,36 @@ covid_vaccinations
 This project demonstrates how SQL can transform large, 
 time-series COVID-19 datasets into meaningful country-, continent-, and population-level analysis.
 
+
+
+---
+
+## 📸 Project Screenshots
+
+### Q2 — Maximum COVID-19 Cases
+
+![Q2 Maximum Cases](q02_max_cases.jpeg)
+
+### Q7 — Deaths as Percentage of Population
+
+![Q7 Death Percentage](ques07_death_percentage.jpeg)
+
+### Q10 — Vaccination Coverage
+
+![Q10 Vaccination](ques10_vaccination.jpeg)
+
+### Q11 — 7-Day Rolling Cases
+
+![Q11 Rolling Cases](ques11_rolling_cases.jpeg)
+
+### Q13 — Continental Ranking
+
+![Q13 Continental Ranking](q13_continent_ranking.jpeg)
+
+### Q15 — Final Analysis
+
+![Q15 Final Analysis](q15_final_analysis.jpeg)
+
 It demonstrates practical skills in data querying,
 aggregation, JOINs, CTEs, window functions, time-series analysis, population-adjusted metrics, and data interpretation.
 
